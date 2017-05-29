@@ -1,5 +1,6 @@
 
-# Assignment 3 - Stanford's How Couples Meet and Stay Together
+# Assignment 3: 
+Stanford's How Couples Meet and Stay Together
 
 Publish your report and code to GitHub by Wednesday __May 4th, 11:55pm__. Hand
 in a __printed copy__ of your report in class on May 5th.
