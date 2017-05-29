@@ -1,0 +1,4 @@
+Hello, world! My name is Jake Newman. I'm a first year studying industrial design and computer 
+science. I'm really excited about this class. Hoping to learn more about R and data analytics. 
+My programming experience has never focused on this topic - but I'm eager for a new challenge. 
+Outside of school, web development and computational media are my primary interests. 
